@@ -279,6 +279,10 @@ if($a == 'admin' && $_SESSION['admin'] == 1) {
 
 }
 
+echo 'HAHAHA';
+
+echo 'AnotherOneThingInThisPHP';
+
 ?>
 
 </body>
